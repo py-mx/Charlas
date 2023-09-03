@@ -4,6 +4,14 @@
 
 
 Se aceptan propuestas, sugerencias, peticiones; solo abre un issue en este repo siguiendo en [este ejemplo](https://github.com/py-mx/Charlas/issues/1)
+
+
+# Meetups #PyMX 🐍 2023
+
+| Fecha               | Charla / Ponente | Video | Otros links |
+| ------------------- | ---------------- | ----- | ----------- |
+| [Septiembre 2023]()  |                  |       |             |
+
 # Meetup #PyMX 🐍 2020
 
 | Fecha                                                                | Charla / Ponente                                                                                                                                                   | Video                                         | Otros links                                                                                       |
