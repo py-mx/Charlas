@@ -1,6 +1,12 @@
 # Repositorio que concentra las charlas de las reuniones mensuales.
 
-[Únete al chat en https://t.me/pythonCDMX](https://t.me/pythonCDMX)
+Telegram: https://t.me/pythonCDMX
+
+Twitter: https://twitter.com/__PyMX__
+
+Meetup: https://www.meetup.com/es/__pymx__/
+
+Linkedin: https://www.linkedin.com/company/pymx/
 
 
 Se aceptan propuestas, sugerencias, peticiones; solo abre un issue en este repo siguiendo en [este ejemplo](https://github.com/py-mx/Charlas/issues/1)
